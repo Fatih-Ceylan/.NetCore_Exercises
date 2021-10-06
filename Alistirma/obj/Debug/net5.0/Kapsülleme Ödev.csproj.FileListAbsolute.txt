@@ -1,0 +1,16 @@
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.exe
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.deps.json
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.runtimeconfig.json
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.runtimeconfig.dev.json
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.dll
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\ref\Kapsülleme Ödev.dll
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\bin\Debug\net5.0\Kapsülleme Ödev.pdb
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.dll
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\ref\Kapsülleme Ödev.dll
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.pdb
+C:\Users\Fatih\source\repos\Alistirma\Alistirma\obj\Debug\net5.0\Kapsülleme Ödev.genruntimeconfig.cache
