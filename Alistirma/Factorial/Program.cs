@@ -10,10 +10,14 @@ namespace Factorial
             {
                 Console.WriteLine("Lütfen sadece sayı giriniz");
             }
-            int sayi = int.Parse(Console.ReadLine());
+            int sayi = Convert.ToInt32(Console.ReadLine());
+            //CheckNumber(sayi);
+
+
             Console.WriteLine(sayi + " " + "Sayısının faktöryeli: " + factorial_WhileLoop(sayi));
             Console.ReadLine();
         }
+
         public static double factorial_WhileLoop(int number)
         {
             double result = 1;
